@@ -1,0 +1,7 @@
+öncelikle hesap makinesine benzeyen bir arayüz oluşturdum renklerini ayarladım yazıların boyutunu ve fontunu ayarladım.Tasarımdan emin olduktan sonra kodlama 
+yapıcağım alana geçtim.
+Kodlamada girilecek olan değerler için iki adet 0'a eşit değer tanımladım bunlar firstnum ve secondnum ayrıca operatorü de null olarak tanımladım böylece işlemleri yaparken artı eksi gibi sembolleri yazabilirim.
+butonlara basıldğında girilmesi gereken değerleri yazdım. ekranı temizlemesi için clear butonuna boşluk değeri verdim böylece keranı temizleyecek.
+lemleri yaparken ınteger değil double ile işlemler yaptırdım. Böylece küsüratı büyük sonuçlar çıktığında işleme yazabilir.
+toplama çıkarma çarpma bölme gibi işlemleri yaparken kod satırlarına operator ekleyip sembollerini yanına yazdım
+sonuc kod satırına da if bloklarından oluşan bir kod bloğu ekledim kod bloklarının içerisinde operatorler sayesinde hangi işlemi seçtiysek o işlemi yapıyor sonucu veriyor.
